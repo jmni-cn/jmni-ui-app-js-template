@@ -1,0 +1,1 @@
+# jmni-ui-app-js-template
