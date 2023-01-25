@@ -13,7 +13,7 @@ import HelloWorld from './components/HelloWorld.vue'
       <img src="./assets/vue.svg" class="logo vue" alt="Vue logo" />
     </a>
     <a href="https://vuejs.org/" target="_blank">
-      <img src="./assets/smarty.svg" style="filter: invert(100%);" class="logo" alt="Vue logo" />
+      <img src="./assets/jmni.svg" class="logo" alt="Vue logo" />
     </a>
   </div>
   <HelloWorld msg="JmniUI + Vite + Vue" />
